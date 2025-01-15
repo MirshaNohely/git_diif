@@ -1,0 +1,84 @@
+.telefono-img {
+    max-height: 45px;
+    }
+    .flecha-img {
+      transform: rotate(180deg);
+    }
+    .opciones {
+      margin-bottom: 0 !important;
+    }
+    .archivo-img {
+      max-height: 25px;
+      padding-left: 20px;
+    }
+    .telefono-p {
+      margin: 0;
+      padding-left: 30px;
+    }
+    .btn {
+      user-select: text;
+    }
+    h3 {
+      font-size: 2rem;
+    }
+    .hr {
+      border: 1px solid black !important;
+    }
+    .h4 {
+      font-size: 1.5rem;
+      font-weight: bolder;
+    }
+    h2 {
+      font-size: 1.5rem;
+    }
+    .card {
+    }
+    .card-body {
+      background-color: #ffffff;
+      padding: 20px;
+    }
+    div.borde:hover {
+      transform: scale(1.05);
+      box-shadow: 0px 0px 25px #666;
+      border-radius: 25px;
+    }
+    a.links:hover, a.links:focus, a.links:active {
+      outline: none !important;
+      border: none !important;
+    }
+    a.links:hover {
+      transform: scale(1.03);
+      box-shadow: 0px 0px 25px #666;
+      border-radius: 25px;
+    }
+    button.links:hover {
+      outline: none !important;
+      border-radius: 25px !important;
+    }
+    .context:hover {
+      cursor: url(https://transparencia-ciudadana.scjn.gob.mx/sites/default/files/page/2024-07/cursor-personalizado_0.png), wait;
+    }
+    .font-2-size {
+      font-size: 2em;
+      /* Ajusta el tamaño según tus necesidades */
+    }
+    .font-5-size {
+      font-size: 5em;
+      /* Ajusta el tamaño según tus necesidades */
+    }
+    .acc-normativa div.card div.card-header>button {
+      background-color: white !important;
+      border: none;
+      line-height: 0;
+      padding: 0;
+    }
+    .acc-normativa div.card div.card-header>a {
+      line-height: 0;
+    }
+    .acc-normativa div.card div.card-header button[aria-expanded="true"]>em:before {
+      content: "\ea5a" !important;
+    }
+    .acc-normativa div.card div.bottom-line {
+      height: 1px;
+      border-bottom: 1px solid #003a70;
+    }
